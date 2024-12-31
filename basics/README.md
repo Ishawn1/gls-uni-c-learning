@@ -46,5 +46,5 @@ To compile and run the C code in this directory:
    ```bash
    gcc [filename].c -o [executable_name]
 5. **5. Run the executable:**
-  ```bash
+   ```bash
    ./[executable_name]
