@@ -36,6 +36,6 @@ To compile and run the C code in this directory:
 4. **Compile a file using a C compiler (like GCC):**
    ```bash
    gcc [filename].c -o [executable_name]
-5. **5. Run the executable:**
+5. **Run the executable:**
    ```bash
    ./[executable_name]
