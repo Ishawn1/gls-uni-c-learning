@@ -31,6 +31,7 @@ During the C programming course, I gained a foundational understanding of key pr
 * **Pointers:**  The concept of pointers, memory addresses, and dereferencing initially felt abstract. However, by working through examples, drawing memory diagrams, and understanding their relationship with arrays, I developed a solid grasp of pointer fundamentals. The `pointers/` directory reflects this learning process.
 
 Completing this course has provided me with a strong foundation in procedural programming with C. I learned valuable skills in problem-solving, logical thinking, and translating requirements into code.
+
 **Future Goals:**
 
 While this repository focuses on my completed C programming course, I am now focusing on Data Structures and Flutter . The skills I gained in C, such as understanding memory management and low-level operations, will undoubtedly be valuable in my future programming endeavors.
