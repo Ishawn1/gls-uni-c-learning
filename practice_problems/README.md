@@ -26,8 +26,8 @@ Each `Task-X/` folder will contain:
 
 **How to Use This Directory:**
 
-1. **Examine the `problemX.c` files** to see my solution to each problem.
+1. **Examine the `X.c` files** to see my solution to each problem.
 2. **To compile and run a solution:**
    ```bash
-   gcc problemX.c -o problemX
-   ./problemX
+   gcc X.c -o X
+   ./X
